@@ -19,6 +19,7 @@ body {
     height: 80%;
     margin-bottom: 20px;
     position: relative;
+    overflow:hidden;
 }
 
 .img-feature {
